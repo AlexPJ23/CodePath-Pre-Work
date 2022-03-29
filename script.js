@@ -12,6 +12,7 @@ var guessCounter = 0;
 var numOfPatternArray = 7;
 var pattern = getPattern(); // set the randomized pattern array to the pattern varible.
 var numOfLives;
+var deltak = 0;
 
 
 
@@ -134,6 +135,7 @@ function playClueSequence() {
     delay += cluePauseTime;
   }
 }
+
 
 function guess(btn) {
   console.log("user guessed: " + btn);
