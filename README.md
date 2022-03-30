@@ -19,7 +19,7 @@ The following **required** functionality is complete:
 * [.] Computer plays back sequence of clues including sound and visual cue for each button
 * [.] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
 * [.] User wins the game after guessing a complete pattern
-* [,] User loses the game after an incorrect guess
+* [.] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
@@ -40,10 +40,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![](https://drive.google.com/drive/folders/14ta3JNoa9mJlMi8tPq8fayJTaFVFqrmp?usp=sharing)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -70,7 +67,7 @@ Live counter - I wanted to give the player multiple try to attempt the pattern F
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/X-lFRoYZmVk)
 
 
 ## License
